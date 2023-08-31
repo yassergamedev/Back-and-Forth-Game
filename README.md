@@ -13,7 +13,7 @@ To ensure that a player possesses the ball only when it's their designated turn,
 
 In situations where offline play is desired, a pause button assumes significance. The Back and Forth Game accommodates this requirement by implementing a pause functionality. The innovative approach involves grouping all player threads together. Consequently, when pausing the game, concerns about individual threads persisting are eliminated, making this approach superior to pausing each thread independently.
 
-![Logo](screenshots/baf.png)
+![Logo](screenshots/baf.PNG)
 
 ## Instructions
 
