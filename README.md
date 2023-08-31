@@ -1,4 +1,5 @@
 # The Back and Forth Game
+![Logo](screenshots/logo.png)
 
 ## Overview
 
